@@ -57,10 +57,10 @@
 | Holistic Development       | Growth that ensures harmony in personal, societal, and ecological dimensions.                                 |
 | Alignment with Nature      | Living in harmony with natural ecosystems by recognizing their interconnectedness and value.                     |
 | Ethical Relationships      | Connections based on trust, honesty, and mutual respect.                                                         |
-| **Moral Foundations          | Core principles like fairness, compassion, and integrity that guide human behavior.                              |
-| **Behavioral Justice         | Ensuring fairness and respect in actions and decisions impacting others.                                         |
-| **Inner Strength             | The resilience to act ethically and remain true to values under pressure.                                        |
-| **Ecological Accountability  | Taking responsibility for one’s actions in preserving and sustaining the environment.                           |
+| Moral Foundations          | Core principles like fairness, compassion, and integrity that guide human behavior.                              |
+| Behavioral Justice         | Ensuring fairness and respect in actions and decisions impacting others.                                         |
+| Inner Strength             | The resilience to act ethically and remain true to values under pressure.                                        |
+| Ecological Accountability  | Taking responsibility for one’s actions in preserving and sustaining the environment.                           |
 | Ethical Reflection         | Evaluating past actions and decisions to learn and align better with values.                                     |
 | Resolution-Oriented Dialogue** | Discussions aimed at resolving differences and restoring harmony through understanding.                         |
 | Value-Driven Progress**      | Advancement that is guided by ethical principles rather than short-term benefits.                                |
