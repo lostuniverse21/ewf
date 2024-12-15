@@ -6,6 +6,7 @@
 | **Self-exploration**           | The process of understanding one's natural acceptance and aligning actions with universal values.                |
 | **Natural Acceptance**         | Innate agreement with what is universally right and harmonious, unaltered by beliefs or conditioning.            |
 | **Right Understanding**        | Clarity about relationships, needs, and coexistence with the larger order.                                       |
+|**Prosperity**	                 |A state of having sufficient resources and utilizing them responsibly while nurturing relationships and the environment.|
 | **Harmony**                    | A state of balance and synergy in self, relationships, society, and nature.                                      |
 | **Mutual Prosperity**          | Achieving well-being for oneself and contributing to the well-being of others and the environment.               |
 | **Self-investigation**         | Analyzing one's goals and actions to align them with values and harmony.                                         |
