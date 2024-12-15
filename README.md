@@ -1,36 +1,36 @@
 | **Keyword**                   | **Description**                                                                                                   |
 |--------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Universal Human Values**     | Values that apply universally, fostering harmony, respect, and co-existence among individuals and with nature.   |
-| **Value Education**            | The aspect of education focused on understanding and living in accordance with universal values.                 |
-| **Human Values**               | Values that guide human relationships and actions to ensure mutual happiness and prosperity.                     |
-| **Self-exploration**           | The process of understanding one's natural acceptance and aligning actions with universal values.                |
-| **Natural Acceptance**         | Innate agreement with what is universally right and harmonious, unaltered by beliefs or conditioning.            |
-| **Right Understanding**        | Clarity about relationships, needs, and coexistence with the larger order.                                       |
-| **Prosperity**	               |A state of having sufficient resources and utilizing them responsibly while nurturing relationships and the environment.|
-| **Happiness**        	         |A state of harmony and fulfillment, achieved by aligning one's life with universal human values.|
-| **Holistic Development**	     |Comprehensive growth that includes right understanding, fulfilling relationships, and sustainable resource use.|
-| **Human Consciousness**	       |Living with awareness and harmony across all dimensions—self, family, society, and nature.|
-| **Harmony**                    | A state of balance and synergy in self, relationships, society, and nature.                                      |
-| **Mutual Prosperity**          | Achieving well-being for oneself and contributing to the well-being of others and the environment.               |
-| **Self-investigation**         | Analyzing one's goals and actions to align them with values and harmony.                                         |
-| **Skill Education**            | Training to develop specific abilities, guided by values to ensure responsible application.                      |
-| **Holistic Perspective**       | An integrated view of life encompassing personal, societal, and ecological well-being.                           |
-| **Ethical Competence**         | The ability to make decisions and act responsibly based on universal human values.                               |
-| **Human Conduct**              | Behavior in accordance with values, promoting harmony at all levels.                                             |
-| **Fulfillment**                | A sense of satisfaction achieved by living in harmony with values and aspirations.                               |
-| **Dialogue**                   | A method of mutual understanding through open communication and self-reflection.                                 |
-| **Basic Human Aspirations**    | Universal desires for happiness, prosperity, and their continuity.                                               |
-| **Physical Facility**          | Material resources necessary for living, which alone cannot ensure fulfillment.                                  |
-| **Animal Consciousness**       | Living driven by physical needs and survival instincts without value alignment.                                  |
-| **Trust**                      | Foundation of human relationships based on reliability and mutual respect.                                       |
-| **Respect**                    | Recognizing the intrinsic worth of others and nature, fostering mutual happiness.                                |
-| **Global Issues**              | Challenges like pollution, inequality, and social divides due to lack of values.                                 |
-| **Sustainable Living**         | Practices that ensure responsible use of resources for current and future generations.                           |
-| **Education-Sanskar**          | Education that fosters values, ethical conduct, and competence for harmonious living.                           |
-| **Self-evolution**             | Personal growth through alignment with natural acceptance and values.                                           |
-| **Self-extension**             | Expanding awareness to include harmonious relationships with others and nature.                                 |
-| **Value**                      | The role of a unit in contributing to the larger order, such as an individual's role in society.                |
-| **Content of Value Education** | Covers dimensions like thought, behavior, work, and understanding at all levels of existence.                  |
+| **Universal Human Values    | Values that apply universally, fostering harmony, respect, and co-existence among individuals and with nature.   |
+| **Value Education           | The aspect of education focused on understanding and living in accordance with universal values.                 |
+| **Human Values              | Values that guide human relationships and actions to ensure mutual happiness and prosperity.                     |
+| **Self-exploration           | The process of understanding one's natural acceptance and aligning actions with universal values.                |
+| **Natural Acceptance        | Innate agreement with what is universally right and harmonious, unaltered by beliefs or conditioning.            |
+| **Right Understanding      | Clarity about relationships, needs, and coexistence with the larger order.                                       |
+| **Prosperity               |A state of having sufficient resources and utilizing them responsibly while nurturing relationships and the environment.|
+| **Happiness       	         |A state of harmony and fulfillment, achieved by aligning one's life with universal human values.|
+| **Holistic Development	     |Comprehensive growth that includes right understanding, fulfilling relationships, and sustainable resource use.|
+| **Human Consciousness	       |Living with awareness and harmony across all dimensions—self, family, society, and nature.|
+| **Harmony                   | A state of balance and synergy in self, relationships, society, and nature.                                      |
+| **Mutual Prosperity          | Achieving well-being for oneself and contributing to the well-being of others and the environment.               |
+| **Self-investigation        | Analyzing one's goals and actions to align them with values and harmony.                                         |
+| **Skill Education           | Training to develop specific abilities, guided by values to ensure responsible application.                      |
+| **Holistic Perspective       | An integrated view of life encompassing personal, societal, and ecological well-being.                           |
+| **Ethical Competence       | The ability to make decisions and act responsibly based on universal human values.                               |
+| **Human Conduct           | Behavior in accordance with values, promoting harmony at all levels.                                             |
+| **Fulfillment                | A sense of satisfaction achieved by living in harmony with values and aspirations.                               |
+| **Dialogue                  | A method of mutual understanding through open communication and self-reflection.                                 |
+| **Basic Human Aspirations    | Universal desires for happiness, prosperity, and their continuity.                                               |
+| **Physical Facility          | Material resources necessary for living, which alone cannot ensure fulfillment.                                  |
+| **Animal Consciousness       | Living driven by physical needs and survival instincts without value alignment.                                  |
+| **Trust| Foundation of human relationships based on reliability and mutual respect.                                       |
+| **Respect                   | Recognizing the intrinsic worth of others and nature, fostering mutual happiness.                                |
+| **Global Issues*              | Challenges like pollution, inequality, and social divides due to lack of values.                                 |
+| **Sustainable Living*         | Practices that ensure responsible use of resources for current and future generations.                           |
+| **Education-Sanskar*          | Education that fosters values, ethical conduct, and competence for harmonious living.                           |
+| **Self-evolution*            | Personal growth through alignment with natural acceptance and values.                                           |
+| **Self-extension*             | Expanding awareness to include harmonious relationships with others and nature.                                 |
+| **Value*                      | The role of a unit in contributing to the larger order, such as an individual's role in society.                |
+| **Content of Value Education* | Covers dimensions like thought, behavior, work, and understanding at all levels of existence.                  |
 | **Self-verification**          | Testing values and beliefs through personal experience and natural acceptance.                                  |
 | **Contradiction**              | A state of disharmony or conflict within oneself or between individuals or systems.                             |
 | **Continuous Happiness**       | Sustained harmony and fulfillment over time.                                                                    |
@@ -78,15 +78,15 @@
 | **Respectful Coexistence**     | Living in mutual respect and peace with all individuals and entities in nature.                                 |
 | **Ethical Economy**            | Economic systems designed to prioritize human welfare and environmental sustainability.                          |
 | **Mindful Resource Use**       | Carefully managing resources to meet needs without causing harm to others or nature.                           |
-| **Global Ethical Unity**       | Aligning worldwide practices and goals with shared human values to create universal harmony.                    |
-| **Equitable Power Dynamics**   | Structuring relationships or systems to avoid exploitation and ensure fairness in influence and authority.       |
-| **Inclusive Education Models** | Learning systems designed to accommodate diverse perspectives while emphasizing shared values.                  |
-| **Harmonized Aspirations**     | Aligning personal goals with collective well-being for sustained mutual prosperity.                              |
-| **Sustainable Partnerships**   | Long-term collaborations that emphasize shared values and mutual benefits.                                       |
-| **Inner Peace Dynamics**       | Understanding how personal values and choices contribute to sustained inner calm and harmony.                   |
-| **Environmental Preservation** | Protecting natural
-|Right Utilization|Using resources or skills responsibly and efficiently for mutual prosperity.|
-|Mutual Fulfillment|Ensuring satisfaction and happiness in relationships through values-based interactions.|
+| Global Ethical Unity**       | Aligning worldwide practices and goals with shared human values to create universal harmony.                    |
+| Equitable Power Dynamics**   | Structuring relationships or systems to avoid exploitation and ensure fairness in influence and authority.       |
+| Inclusive Education Models** | Learning systems designed to accommodate diverse perspectives while emphasizing shared values.                  |
+| Harmonized Aspirations**     | Aligning personal goals with collective well-being for sustained mutual prosperity.                              |
+| Sustainable Partnerships**   | Long-term collaborations that emphasize shared values and mutual benefits.                                       |
+| Inner Peace Dynamics       | Understanding how personal values and choices contribute to sustained inner calm and harmony.                   |
+| Environmental Preservation | Protecting natural
+|Right Utilization**|Using resources or skills responsibly and efficiently for mutual prosperity.|
+|Mutual Fulfillment**|Ensuring satisfaction and happiness in relationships through values-based interactions.|
 |Self-awareness|Recognizing one’s own desires, thoughts, and actions to achieve alignment with values.|
 |Self-confidence|A sense of assurance arising from living in harmony with natural acceptance.|
 |Natural Coexistence|The inherent interconnectedness of all units in nature, working together harmoniously.|
